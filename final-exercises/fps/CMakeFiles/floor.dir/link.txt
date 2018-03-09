@@ -1,0 +1,1 @@
+/usr/bin/g++      CMakeFiles/floor.dir/floor.cpp.o CMakeFiles/floor.dir/stb_image.c.o  -o floor -rdynamic -lglfw3 -lGLEW -lassimp -lGLU -lGL -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl -Wl,-Bstatic -lSOIL -Wl,-Bdynamic 

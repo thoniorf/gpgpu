@@ -1,1 +1,0 @@
-/usr/bin/c++      CMakeFiles/simple.dir/simple.cpp.o CMakeFiles/simple.dir/glad.c.o  -o simple -rdynamic -lglfw3 -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl 

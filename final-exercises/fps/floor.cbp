@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="floor"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\;CMake Files\..\..\..\..\..\..\..\..\usr\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\cmake\;CMake Files\..\..\..\..\..\..\..\..\usr\lib\cmake\glm\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="floor">
+				<Option output="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/floor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 floor"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="floor/fast">
+				<Option output="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/floor" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/c++/6"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/6"/>
+					<Add directory="/usr/include/c++/6/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/6/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 floor/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/floor.cpp">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/camera.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/mesh.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/model.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/shader.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/stb_image.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/texture.h">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/cube_fragment.frag">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/cube_vertex.vert">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/cubemaps.frag">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/cubemaps.vert">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/floor_fragment.frag">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/floor_vertex.vert">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/light_fragment.frag">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/light_vertex.vert">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/sphere_fragment.frag">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/shaders/sphere_vertex.vert">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/stb_image.c">
+			<Option target="floor"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/../../../../../../../../usr/lib/cmake/glm/glmConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\cmake\glm\"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/../../../../../../../../usr/lib/cmake/glm/glmConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\cmake\glm\"/>
+		</Unit>
+		<Unit filename="/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/../../../../../../../../usr/lib/cmake/glm/glmTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\..\..\..\..\usr\lib\cmake\glm\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

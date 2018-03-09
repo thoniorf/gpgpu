@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/stb_image.h
+stb_image.h
+/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/stb_image.h
+stdio.h
+-
+stdarg.h
+-
+stddef.h
+-
+stdlib.h
+-
+string.h
+-
+limits.h
+-
+math.h
+-
+stdio.h
+-
+assert.h
+-
+stdint.h
+-
+emmintrin.h
+-
+intrin.h
+-
+arm_neon.h
+-
+
+/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/stb_image.c
+include/stb_image.h
+/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/fps/include/stb_image.h
+
