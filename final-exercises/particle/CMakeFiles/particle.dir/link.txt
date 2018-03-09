@@ -1,1 +1,0 @@
-/usr/bin/g++      CMakeFiles/particle.dir/particle.cpp.o CMakeFiles/particle.dir/home/thoniorf/Documents/Projects/glad/src/glad.c.o  -o particle -rdynamic -lglfw3 -lassimp -lGLU -lGL -lGL -lX11 -lpthread -lXrandr -lXi -lm -ldl -Wl,-Bstatic -lSOIL -Wl,-Bdynamic 

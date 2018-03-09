@@ -1,3 +1,0 @@
-/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/particle/CMakeFiles/edit_cache.dir
-/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/particle/CMakeFiles/rebuild_cache.dir
-/home/thoniorf/Documents/Projects/Unical/gpgpu/final-exercises/particle/CMakeFiles/particle.dir
